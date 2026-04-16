@@ -324,6 +324,7 @@ Even though we unblocked public access in Step 1, we still need to grant "Read" 
     ]
 }
 
+```
 <img width="1710" height="950" alt="Screenshot 2026-04-16 at 11 56 24 PM" src="https://github.com/user-attachments/assets/ac44ea54-e92d-4946-9466-15f768a09753" />
 <img width="1708" height="566" alt="Screenshot 2026-04-16 at 11 57 00 PM" src="https://github.com/user-attachments/assets/94c7ec74-cbd1-4662-ac40-595ee4e86f49" />
 <img width="1706" height="370" alt="Screenshot 2026-04-17 at 12 02 57 AM" src="https://github.com/user-attachments/assets/efc9ecb2-4758-4bfb-a0d3-55f14465969f" />
